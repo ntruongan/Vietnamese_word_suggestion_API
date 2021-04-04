@@ -1,0 +1,1828 @@
+﻿1
+00:00:01,334 --> 00:00:03,670
+Vậy là, chỉ vì một sơ suất về kiến trúc,
+
+2
+00:00:03,753 --> 00:00:08,717
+Thảm họa cầu Toledo năm 1906
+đã cướp đi sinh mạng của 75 người.
+
+3
+00:00:10,218 --> 00:00:14,472
+Giờ, tôi ghét phải dừng lại khi cao hứng,
+nhưng Halloween vui vẻ nhé các em!
+
+4
+00:00:15,974 --> 00:00:19,144
+Này, giáo sư Brosby,
+thầy muốn uống bia với bọn em không?
+
+5
+00:00:19,227 --> 00:00:20,478
+Không, tôi có chút việc.
+
+6
+00:00:20,562 --> 00:00:22,605
+Nhưng chúc các em
+chơi trò cho kẹo hay bị ghẹo vui vẻ.
+
+7
+00:00:22,689 --> 00:00:24,065
+Bọn em mời mà.
+
+8
+00:00:24,149 --> 00:00:26,443
+Thầy là tuyệt nhất, giáo sư Mosby.
+
+9
+00:00:26,526 --> 00:00:27,777
+Ừ, xúc xích nóng bỏng mà.
+
+10
+00:00:28,570 --> 00:00:29,612
+Có đau không?
+
+11
+00:00:29,696 --> 00:00:30,613
+Sao?
+
+12
+00:00:30,697 --> 00:00:33,908
+Ca phẫu thuật lấy cái mũi của cô nhóc đó
+ra khỏi mông cậu ấy.
+
+13
+00:00:34,492 --> 00:00:38,371
+Mũi của con bé
+không ở dưới mông tôi, Lily, là trái tim.
+
+14
+00:00:38,455 --> 00:00:42,250
+Cả lớp đều yêu quý tôi.
+Tôi thật sự gây ấn tượng tốt với chúng.
+
+15
+00:00:43,793 --> 00:00:45,336
+Tôi muốn tạo ấn tượng với mấy em kia.
+
+16
+00:00:46,004 --> 00:00:48,673
+Trời, tôi yêu tiệc Halloween ở văn phòng.
+
+17
+00:00:48,757 --> 00:00:51,593
+Nó lẳng lơ hơn hẳn
+bữa tiệc Giáng Sinh văn phòng.
+
+18
+00:00:51,843 --> 00:00:55,597
+Mặc dù không dị bằng
+tiệc Thác loạn văn phòng Ngày Tổng Thống.
+
+19
+00:00:55,680 --> 00:00:58,600
+Hay tiệc ngủ văn phòng
+nhân lễ Tu B'Shevat.
+
+20
+00:00:59,559 --> 00:01:01,269
+Chào mọi người. Chào Sếp.
+
+21
+00:01:01,352 --> 00:01:03,021
+Chào Randy. Uống bia không?
+
+22
+00:01:03,104 --> 00:01:04,647
+Ồ, không, cảm ơn. Tôi tự ủ bia rồi.
+
+23
+00:01:04,731 --> 00:01:06,232
+Nghe có vẻ khoe khoang,
+
+24
+00:01:06,316 --> 00:01:08,234
+bia Hazelnut Pilsner của tôi
+đạt vị trí thứ tư
+
+25
+00:01:08,318 --> 00:01:11,571
+ở Tiệc Hải sản Nhà dưỡng lão Weehawken
+và Buổi Cắm trại của Hội Bảo dưỡng Xe lăn.
+
+26
+00:01:12,363 --> 00:01:14,783
+Tôi không coi đó là khoe khoang đâu.
+
+27
+00:01:15,825 --> 00:01:18,328
+Này, vừa mới nhớ ra,
+bạn của anh...Tên cô ấy là gì nhỉ?
+
+28
+00:01:18,411 --> 00:01:19,454
+Garbin, Flabin...
+
+29
+00:01:19,537 --> 00:01:21,039
+- Robin?
+- Robin. Phải rồi, chuẩn.
+
+30
+00:01:21,122 --> 00:01:23,291
+Cô ấy có đây không?
+Ồ, tôi cũng không quan tâm lắm.
+
+31
+00:01:23,374 --> 00:01:24,918
+Robin phải dự một bữa tiệc khác.
+
+32
+00:01:25,001 --> 00:01:26,419
+Không! Chết tiệt!
+
+33
+00:01:26,503 --> 00:01:27,587
+Tôi về đây.
+
+34
+00:01:27,670 --> 00:01:29,339
+Nhưng lát nữa có thể cô ấy sẽ tạt qua.
+
+35
+00:01:29,964 --> 00:01:31,341
+Chắc tôi sẽ ở lại thêm chút nữa.
+
+36
+00:01:37,722 --> 00:01:40,433
+Vậy, ai đi xem diễu hành Halloween không?
+
+37
+00:01:40,517 --> 00:01:43,436
+Bọn bố hâm mộ lễ diễu hành Halloween
+hàng năm ở New York.
+
+38
+00:01:43,853 --> 00:01:46,481
+Bố không nói đến cái diễn ra
+ở Greenwich Village đêm Halloween.
+
+39
+00:01:46,564 --> 00:01:49,067
+Mà là cái diễn ra
+vào sáng ngày 1 tháng 11...
+
+40
+00:01:49,651 --> 00:01:52,487
+Cuộc Diễu hành Bước đi Hổ thẹn
+Hậu Halloween Hàng năm.
+
+41
+00:01:52,987 --> 00:01:56,533
+Nhìn mọi người đi về
+sau những cuộc mây mưa bẩn thỉu, dơ dáy.
+
+42
+00:01:58,952 --> 00:02:00,495
+Có vẻ con ong kia đã rất bận rộn.
+
+43
+00:02:01,621 --> 00:02:04,541
+Có vẻ cô hầu gái người Pháp
+đã không từ chối bò lên giường ai đó.
+
+44
+00:02:04,624 --> 00:02:08,169
+Ôi, hình như hai đầu gối
+của Pocahontas bị thương.
+
+45
+00:02:08,461 --> 00:02:10,046
+- Thôi nào, Marshall.
+- Chẳng hay gì cả.
+
+46
+00:02:10,130 --> 00:02:11,756
+- Không, đó là vì...
+- Bọn tôi hiểu mà.
+
+47
+00:02:11,840 --> 00:02:13,508
+Chuyện này có thể thú vị hơn nữa không?
+
+48
+00:02:14,634 --> 00:02:15,593
+Có.
+
+49
+00:02:16,219 --> 00:02:17,387
+Ừ, có đấy.
+
+50
+00:02:20,640 --> 00:02:21,641
+Chết tiệt.
+
+51
+00:02:37,615 --> 00:02:41,619
+Cô ấy đây rồi, Florence Ngủ Với Người Lạ.
+
+52
+00:02:41,995 --> 00:02:43,913
+Vậy bệnh nhân may mắn đó là ai?
+
+53
+00:02:43,997 --> 00:02:45,582
+Tôi không muốn nói chuyện này.
+
+54
+00:02:45,665 --> 00:02:48,126
+Làm ơn nói với anh em không ngủ
+với bạn dẫn chương trình của em.
+
+55
+00:02:48,209 --> 00:02:49,460
+Bạn dẫn của em là phụ nữ.
+
+56
+00:02:49,544 --> 00:02:51,629
+Làm ơn nói với anh
+là em ngủ với bạn dẫn của em.
+
+57
+00:02:51,921 --> 00:02:53,131
+Dì Robin luôn tin tưởng rằng
+
+58
+00:02:53,214 --> 00:02:56,551
+chìa khóa của sự thành công
+là thông minh, chăm chỉ và chuyên nghiệp.
+
+59
+00:02:56,634 --> 00:02:58,761
+Bạn dẫn của cô ấy
+Becky lại có triết lý khác.
+
+60
+00:02:58,845 --> 00:03:01,931
+Thuyền!
+
+61
+00:03:02,015 --> 00:03:03,975
+Chương trình Triển lãm Thuyền Farhampton!
+
+62
+00:03:04,058 --> 00:03:06,978
+Thuyền!
+
+63
+00:03:07,061 --> 00:03:10,607
+Hãy nhớ ngày 5, 6, 7
+tại Trung tâm Hành chính Farhampton.
+
+64
+00:03:10,690 --> 00:03:11,858
+Thuyền!
+
+65
+00:03:12,150 --> 00:03:13,318
+Hãy mau đến đây.
+
+66
+00:03:14,152 --> 00:03:15,361
+Thuyền!
+
+67
+00:03:17,071 --> 00:03:19,490
+- Cô quay quảng cáo sao?
+- Tại sao không?
+
+68
+00:03:19,949 --> 00:03:22,785
+Cô là một phóng viên! Cô không muốn
+được nhìn nhận nghiêm túc sao?
+
+69
+00:03:22,869 --> 00:03:23,995
+Không. Tôi đáng yêu mà.
+
+70
+00:03:25,038 --> 00:03:27,665
+Được thôi, nếu cô thực sự nghĩ
+việc này tốt cho hình ảnh của cô.
+
+71
+00:03:27,749 --> 00:03:30,501
+Chào, Becky. Thuyền!
+
+72
+00:03:31,544 --> 00:03:33,379
+Robin, giúp tôi một tay chứ?
+
+73
+00:03:35,465 --> 00:03:38,718
+Robin, em không nên lo lắng quá nhiều
+về việc được yêu quý.
+
+74
+00:03:38,801 --> 00:03:42,013
+Ồ, nói thì dễ lắm.
+Ở chỗ làm ai cũng yêu quý anh.
+
+75
+00:03:42,096 --> 00:03:43,932
+Ở trường thì điều đó đúng.
+
+76
+00:03:44,015 --> 00:03:45,808
+Nhưng bố cũng đang thiết kế trụ sở mới
+
+77
+00:03:45,892 --> 00:03:48,186
+cho Ngân hàng Quốc gia Goliath, và...
+
+78
+00:03:48,269 --> 00:03:51,606
+Ted Mosby, chúng tôi không thích anh!
+
+79
+00:03:52,065 --> 00:03:53,149
+Anh còn gì để nói,
+
+80
+00:03:53,233 --> 00:03:57,195
+phá hủy một tòa nhà đẹp đẽ, cổ kính
+để xây dựng một trụ sở ngớ ngẩn?
+
+81
+00:03:58,321 --> 00:04:02,200
+Nực...cười...thật!
+
+82
+00:04:02,367 --> 00:04:04,452
+Nực cười thật? Thế thôi sao?
+
+83
+00:04:05,161 --> 00:04:08,539
+Tòa nhà Arcadian là tượng đài kiến trúc...
+
+84
+00:04:08,623 --> 00:04:09,958
+Tượng đài kiến trúc?
+
+85
+00:04:10,250 --> 00:04:13,795
+Zoey, cô xinh lắm. Tóc cô rất thơm.
+
+86
+00:04:13,878 --> 00:04:15,922
+Nhờ dầu gội đầu. Anh nên dùng thử một lần.
+
+87
+00:04:16,005 --> 00:04:18,508
+Cô chẳng biết một chút gì về kiến trúc cả.
+
+88
+00:04:18,883 --> 00:04:20,969
+Phá xe ô tô của Ted Mosby.
+
+89
+00:04:21,219 --> 00:04:22,136
+Nói tiếp đi.
+
+90
+00:04:22,220 --> 00:04:23,680
+Tôi là một giáo sư, được chứ?
+
+91
+00:04:23,763 --> 00:04:26,474
+Tôi dạy ở một trong những đại học
+tốt nhất cả nước.
+
+92
+00:04:26,557 --> 00:04:28,810
+Tôi không hạ mình
+tới chỗ thất nghiệp của cô
+
+93
+00:04:28,893 --> 00:04:30,812
+chỉ để dạy đời cô
+rằng cuộc biểu tình nho nhỏ này
+
+94
+00:04:30,895 --> 00:04:34,357
+lạc lối và tốn thời gian ra sao,
+trừ khi ối, tôi vừa làm rồi.
+
+95
+00:04:34,440 --> 00:04:35,650
+Đau chưa.
+
+96
+00:04:35,733 --> 00:04:37,860
+- Ồ, tốt, trứng đây rồi.
+- Tôi phải đi lên đây.
+
+97
+00:04:38,403 --> 00:04:40,321
+Không, GNB không được ưa thích.
+
+98
+00:04:40,405 --> 00:04:42,699
+Nên năm nào họ cũng làm
+một đoạn phim gây thiện cảm
+
+99
+00:04:42,782 --> 00:04:43,700
+để cải thiện hình ảnh.
+
+100
+00:04:43,783 --> 00:04:47,370
+Điều gì khiến Ngân hàng Quốc gia Goliath
+khác biệt so với các ngân hàng lớn khác?
+
+101
+00:04:47,453 --> 00:04:49,330
+Ở GNB, chúng tôi quan tâm.
+
+102
+00:04:50,039 --> 00:04:52,208
+Tôi quan tâm
+đến Trái Đất quý giá của chúng ta.
+
+103
+00:04:54,711 --> 00:04:56,587
+Tôi quan tâm đến người già.
+
+104
+00:04:57,630 --> 00:05:00,883
+Tôi quan tâm đến những phi vụ
+đầu tư lợi nhuận cao ở nước ngoài.
+
+105
+00:05:00,967 --> 00:05:02,552
+Và Tugboat đây cũng vậy.
+
+106
+00:05:02,635 --> 00:05:04,554
+Có phải không, Tugboat? Ừ.
+
+107
+00:05:06,097 --> 00:05:09,976
+Được rồi, bỏ máy quay khỏi mặt tôi trước
+khi tôi lật cậu như trứng ốp phô mai.
+
+108
+00:05:10,059 --> 00:05:11,728
+Cậu chỉ cần nói là
+
+109
+00:05:11,853 --> 00:05:15,106
+"Tôi quan tâm đến việc
+biến ước mơ thành sự thật."
+
+110
+00:05:15,189 --> 00:05:18,026
+Trước hết, câu đó
+khiến tôi nghe như gái điếm
+
+111
+00:05:18,109 --> 00:05:20,528
+và nói câu đó
+cũng khiến tôi cảm thấy như gái điếm.
+
+112
+00:05:20,611 --> 00:05:22,655
+Ai cũng có mặt trong đoạn phim.
+
+113
+00:05:22,739 --> 00:05:24,115
+Randy cũng góp mặt này.
+
+114
+00:05:24,198 --> 00:05:26,367
+Tôi không muốn khoe khoang,
+nhưng sau 29 lần quay,
+
+115
+00:05:26,451 --> 00:05:27,660
+tôi chỉ nôn có ba lần.
+
+116
+00:05:28,786 --> 00:05:31,664
+Đợi đã, Randy, anh đã gửi
+bản hợp đồng Hermanson xuống phố chưa?
+
+117
+00:05:31,748 --> 00:05:34,083
+Tôi gửi rồi. Tôi đã gửi chúng xuống phố.
+
+118
+00:05:34,292 --> 00:05:35,543
+Sao anh lại nói kiểu đó?
+
+119
+00:05:35,626 --> 00:05:37,295
+Chúng chưa bao giờ
+tới văn phòng trung tâm.
+
+120
+00:05:37,378 --> 00:05:38,296
+Chúng...
+
+121
+00:05:38,796 --> 00:05:40,673
+Để đảm bảo chúng ta có cùng suy nghĩ,
+
+122
+00:05:40,757 --> 00:05:41,924
+"gửi chúng xuống phố"
+
+123
+00:05:42,008 --> 00:05:44,302
+không phải là cách nói khác
+của xé vụn tài liệu sao?
+
+124
+00:05:45,136 --> 00:05:46,387
+Anh đã xé vụn chúng?
+
+125
+00:05:46,471 --> 00:05:48,097
+Phải. Tôi đã cho chúng xuống phố.
+
+126
+00:05:48,181 --> 00:05:49,807
+Anh biết đó, nhét xuống máy hủy tài liệu.
+
+127
+00:05:49,891 --> 00:05:51,100
+Anh đưa tờ giấy
+
+128
+00:05:51,184 --> 00:05:53,895
+theo chiều hướng xuống,
+đó là nguồn gốc của câu nói còn gì.
+
+129
+00:05:53,978 --> 00:05:56,439
+Đó không phải cách nói khác!
+Chưa bao giờ là cách nói khác!
+
+130
+00:05:56,522 --> 00:05:59,067
+Được rồi, tôi có thể sửa.
+Tôi sẽ tập trung vào dự án này.
+
+131
+00:06:02,528 --> 00:06:05,239
+Tôi sẽ nói điều này,
+anh ta không biết bỏ cuộc đâu.
+
+132
+00:06:05,865 --> 00:06:08,534
+- Cậu nên sa thải anh ta.
+- Được rồi, đó, chính điều đó.
+
+133
+00:06:08,618 --> 00:06:10,912
+Cái thái độ đó là lý do
+tôi không tham gia đoạn phim.
+
+134
+00:06:10,995 --> 00:06:12,622
+Bởi vì GNB không hề quan tâm.
+
+135
+00:06:12,705 --> 00:06:14,749
+Họ phát giấy đuổi việc
+như mấy món ăn khai vị.
+
+136
+00:06:14,832 --> 00:06:16,959
+Tuần trước,
+tôi đang nói chuyện với Arthur...
+
+137
+00:06:17,418 --> 00:06:20,004
+Anh đang đeo cà vạt màu xanh lá.
+
+138
+00:06:20,088 --> 00:06:21,839
+Chỉ có tôi được đeo cà vạt xanh lá thôi.
+
+139
+00:06:23,508 --> 00:06:27,553
+GNB đối xử với nhân viên như đồ bỏ đi
+và tôi sẽ không tham gia đâu.
+
+140
+00:06:27,678 --> 00:06:31,933
+Marshall Eriksen
+không sa thải nhân viên, chấm hết.
+
+141
+00:06:33,059 --> 00:06:34,185
+Tôi chỉ muốn cho anh biết,
+
+142
+00:06:34,268 --> 00:06:36,229
+chúng ta có tiến triển với dự án mới này.
+
+143
+00:06:37,313 --> 00:06:39,816
+Ồ, các quý ông cứ tiếp tục đi,
+tôi sẽ trả lời.
+
+144
+00:06:40,775 --> 00:06:42,276
+Văn phòng Marshall Eriksen.
+
+145
+00:06:42,360 --> 00:06:44,529
+Được, con có thể xem nó cho mẹ.
+Đợi một lát.
+
+146
+00:06:48,574 --> 00:06:50,576
+Ngân hàng. "NH" viết tắt cho ngân hàng.
+
+147
+00:06:51,077 --> 00:06:52,662
+Được rồi mẹ, hẹn gặp mẹ tối nay.
+
+148
+00:06:52,745 --> 00:06:55,206
+Ôi chết rồi. Tôi nên lấy
+một tờ giấy ăn cho Quý Ngài Bừa Bộn.
+
+149
+00:07:03,923 --> 00:07:04,966
+Chấm hết.
+
+150
+00:07:05,758 --> 00:07:07,301
+Cứ nói cho tôi biết cậu ngủ với ai đi!
+
+151
+00:07:07,385 --> 00:07:09,303
+Lily, tôi không muốn nói chuyện đó,
+được chứ?
+
+152
+00:07:09,387 --> 00:07:11,722
+À, vậy là người mà bọn tôi quen.
+
+153
+00:07:11,806 --> 00:07:14,892
+Nếu là tên ngốc nào đó
+bọn tôi không biết, cậu sẽ nói cho tôi...
+
+154
+00:07:14,976 --> 00:07:17,562
+Được rồi. Là Hóa Đơn Hạt Tiêu.
+
+155
+00:07:18,479 --> 00:07:19,605
+Hóa Đơn Hạt Tiêu?
+
+156
+00:07:21,065 --> 00:07:22,191
+Thật là trùng hợp
+
+157
+00:07:22,275 --> 00:07:25,486
+khi ngay trên bàn
+lại có tờ hóa đơn và lọ hạt tiêu.
+
+158
+00:07:25,570 --> 00:07:29,532
+Vậy không lẽ cậu và Hóa Đơn
+đã ngủ cùng với Dĩa Khăn Giấy?
+
+159
+00:07:30,450 --> 00:07:32,368
+Đó là người bọn tôi biết!
+
+160
+00:07:34,162 --> 00:07:37,915
+Vậy, chắc cả lớp đã đọc các chương
+về kiến trúc Hy Lạp thời Phục Hưng.
+
+161
+00:07:37,999 --> 00:07:38,833
+Có câu hỏi nào không?
+
+162
+00:07:38,916 --> 00:07:40,835
+Có. Buổi tối làm sao thầy ngủ được?
+
+163
+00:07:46,132 --> 00:07:48,634
+- Cô làm gì ở đây?
+- Gần đây tôi nhận ra
+
+164
+00:07:48,718 --> 00:07:52,889
+tôi chả biết gì về kiến trúc cả,
+nên tôi tới đây.
+
+165
+00:07:54,557 --> 00:07:57,059
+Tốt rồi, vậy bắt đầu thôi.
+
+166
+00:07:58,144 --> 00:08:00,396
+Một số ví dụ
+về kiến trúc Hy Lạp thời Phục Hưng...
+
+167
+00:08:01,772 --> 00:08:03,941
+Tòa nhà Arcadian có phải
+từ Hy Lạp thời Phục Hưng không?
+
+168
+00:08:04,817 --> 00:08:05,693
+Không.
+
+169
+00:08:06,486 --> 00:08:08,446
+Tòa nhà Arcadian là gì?
+
+170
+00:08:08,529 --> 00:08:12,742
+Ồ, đó chỉ là một tòa nhà đẹp đẽ, cổ kính
+mà giáo sư Mosby muốn phá hủy.
+
+171
+00:08:13,117 --> 00:08:16,204
+Sao cơ? Không,
+giáo sư Mosby yêu những tòa nhà cổ kính.
+
+172
+00:08:16,287 --> 00:08:17,914
+Thầy không làm vậy đâu. Phải không thầy?
+
+173
+00:08:20,166 --> 00:08:22,043
+Quay lại Hy Lạp thời Phục Hưng...
+
+174
+00:08:23,169 --> 00:08:24,295
+Tôi mất chúng rồi.
+
+175
+00:08:24,462 --> 00:08:26,088
+Nghe này, cậu mới đi dạy thôi.
+
+176
+00:08:26,172 --> 00:08:29,926
+Trong lớp mẫu giáo,
+tôi có rất nhiều học sinh gây rối.
+
+177
+00:08:30,551 --> 00:08:32,261
+Như Johnny Marley...
+
+178
+00:08:36,307 --> 00:08:37,225
+Johnny?
+
+179
+00:08:38,017 --> 00:08:39,060
+Johnny!
+
+180
+00:08:40,019 --> 00:08:43,689
+Thằng bé với con ngựa nhồi bông đó
+gây ra đủ thứ rắc rối.
+
+181
+00:08:44,065 --> 00:08:47,276
+Nhưng tôi có phương pháp đơn giản
+để tiêu diệt những kẻ gây rối.
+
+182
+00:08:47,360 --> 00:08:50,530
+Cậu biết mấy cái xe Taurus 1998
+luôn đỗ bên ngoài không?
+
+183
+00:08:50,613 --> 00:08:52,573
+Cái xe có còi báo động khó chịu ấy?
+
+184
+00:09:02,291 --> 00:09:03,709
+Bọn tôi quá quen rồi.
+
+185
+00:09:03,918 --> 00:09:06,837
+Khi đứa trẻ như Johnny
+nghịch phá trong lớp...
+
+186
+00:09:18,849 --> 00:09:20,142
+Chúng ngậm mồm ngay.
+
+187
+00:09:20,226 --> 00:09:23,479
+Lily, sinh viên của tôi là người lớn,
+và tôi sẽ đối xử với chúng như này.
+
+188
+00:09:23,563 --> 00:09:25,565
+Tôi sẽ cho thêm kẹo và làm một đĩa nhạc.
+
+189
+00:09:25,648 --> 00:09:26,607
+Vấn đề được giải quyết.
+
+190
+00:09:27,900 --> 00:09:29,235
+Ôi, anh yêu, có chuyện gì vậy?
+
+191
+00:09:31,279 --> 00:09:32,572
+Có chuyện tồi tệ đã xảy ra.
+
+192
+00:09:34,115 --> 00:09:36,367
+- Randy, này, anh có thấy...
+- Trước khi anh nói,
+
+193
+00:09:36,450 --> 00:09:39,120
+về dự án trước đó tôi đang làm...
+
+194
+00:09:39,412 --> 00:09:40,454
+Đây rồi!
+
+195
+00:09:40,913 --> 00:09:42,373
+Đó là bản hợp đồng Hermanson?
+
+196
+00:09:42,456 --> 00:09:44,166
+Bản hợp đồng Hermanson?
+
+197
+00:09:44,667 --> 00:09:47,295
+Ôi trời, đây là bản hợp đồng Filbert.
+
+198
+00:09:47,378 --> 00:09:49,088
+- Chết tiệt!
+- Không...
+
+199
+00:09:49,171 --> 00:09:50,715
+Dù sao thì, anh định nói gì?
+
+200
+00:09:51,299 --> 00:09:53,050
+Tôi cần bản hợp đồng Filbert!
+
+201
+00:09:53,134 --> 00:09:55,052
+Không!
+
+202
+00:09:57,054 --> 00:09:59,599
+Vậy tôi sẽ làm những gì có thể.
+
+203
+00:09:59,682 --> 00:10:03,185
+Nhưng theo kinh nghiệm của tôi,
+xé vụn hai lần là đi đời rồi.
+
+204
+00:10:04,687 --> 00:10:06,230
+Xin lỗi, Randy, nhưng...
+
+205
+00:10:06,981 --> 00:10:08,649
+thế này không ổn.
+
+206
+00:10:08,983 --> 00:10:10,818
+Marshall đã làm chuyện ấy lần đầu!
+
+207
+00:10:12,278 --> 00:10:15,406
+Thôi nào, Marshall,
+cậu phải thừa nhận, anh ta là thảm họa.
+
+208
+00:10:15,489 --> 00:10:17,700
+Ý tôi là, nó ảnh hưởng xấu tới công ty.
+
+209
+00:10:17,783 --> 00:10:20,036
+Anh ta là một nỗi hổ thẹn.
+
+210
+00:10:20,119 --> 00:10:21,579
+Một nỗi hổ thẹn khổng lồ.
+
+211
+00:10:21,912 --> 00:10:23,623
+Cậu đã ngủ với Randy!
+
+212
+00:10:23,998 --> 00:10:24,915
+Sao cơ?
+
+213
+00:10:25,041 --> 00:10:27,668
+Tại sao ư, dễ hiểu thôi,
+Scherbatson yêu quý.
+
+214
+00:10:28,753 --> 00:10:32,590
+Bạn dẫn của cậu ngày càng nổi tiếng
+vì cái quảng cáo ngớ ngẩn của cô ta,
+
+215
+00:10:32,673 --> 00:10:33,716
+"Thuyền!"
+
+216
+00:10:34,091 --> 00:10:37,136
+Vậy nên, lúc cậu tới bữa tiệc của GNB
+sau khi bọn tôi về,
+
+217
+00:10:37,219 --> 00:10:40,139
+cậu say khướt và cảm thấy yếu đuối.
+
+218
+00:10:40,598 --> 00:10:44,018
+Rồi, bên kia phòng họp dần thưa thớt,
+
+219
+00:10:44,101 --> 00:10:45,895
+ánh mắt hai người gặp nhau.
+
+220
+00:10:50,358 --> 00:10:52,026
+Và như chúng ta đều nhớ...
+
+221
+00:10:52,401 --> 00:10:54,570
+Randy có một phản ứng độc đáo.
+
+222
+00:10:54,779 --> 00:10:57,031
+Ừ, mũi anh đang chảy máu như vòi nước.
+
+223
+00:10:57,114 --> 00:10:59,575
+Ôi, Chúa ơi, chuyện này thường xảy ra
+mỗi lần tôi cương cứng.
+
+224
+00:10:59,659 --> 00:11:00,660
+Tôi rất xin lỗi.
+
+225
+00:11:04,121 --> 00:11:05,247
+Đó...
+
+226
+00:11:06,957 --> 00:11:08,959
+chính xác là những gì đã xảy ra.
+
+227
+00:11:10,002 --> 00:11:12,922
+Thấy chưa Marshall,
+nếu bị sa thải là án tử hình,
+
+228
+00:11:13,005 --> 00:11:14,548
+ít nhất anh ta cũng có bữa ăn cuối cùng.
+
+229
+00:11:15,216 --> 00:11:17,385
+Tôi thề với cậu,
+ngày mai cậu sẽ thấy tốt hơn thôi.
+
+230
+00:11:19,261 --> 00:11:21,389
+Randy. Chào, có chuyện gì thế?
+
+231
+00:11:21,472 --> 00:11:23,349
+Tôi chỉ muốn nói tôi không oán hờn gì.
+
+232
+00:11:24,642 --> 00:11:25,726
+Cảm ơn.
+
+233
+00:11:26,685 --> 00:11:27,645
+Vậy giờ anh định đi đâu?
+
+234
+00:11:30,731 --> 00:11:31,732
+Xuống phố.
+
+235
+00:11:35,361 --> 00:11:37,071
+Không!
+
+236
+00:11:38,906 --> 00:11:40,116
+Không sao đâu, anh yêu.
+
+237
+00:11:40,199 --> 00:11:41,492
+Nó không ổn chút nào.
+
+238
+00:11:41,575 --> 00:11:42,743
+Nên buổi sáng hôm sau...
+
+239
+00:11:42,827 --> 00:11:44,995
+Arthur, tôi tới đây vì tôi đã mắc sai lầm.
+
+240
+00:11:45,079 --> 00:11:46,622
+Hôm qua tôi đã sa thải Randy.
+
+241
+00:11:46,705 --> 00:11:49,208
+Đó đúng là sai lầm.
+Anh nên sa thải anh ta từ một năm trước.
+
+242
+00:11:49,291 --> 00:11:52,336
+Không, thưa ngài,
+đó chính là vấn đề của công ty.
+
+243
+00:11:52,420 --> 00:11:54,755
+Tại sao ta luôn nói "GNB quan tâm",
+
+244
+00:11:54,839 --> 00:11:57,049
+rồi quay lưng lại
+và đối xử với nhân viên như thế?
+
+245
+00:11:57,133 --> 00:12:00,010
+Ý tôi là, phải, anh ấy đã mắc vài sai lầm,
+nhưng ai cũng mắc sai lầm.
+
+246
+00:12:00,594 --> 00:12:02,138
+Như là Tugboat đây.
+
+247
+00:12:03,222 --> 00:12:04,932
+Tôi cá là nó đã mắc vài sai lầm.
+
+248
+00:12:05,015 --> 00:12:07,435
+Nhưng ông đâu có sa thải Tugboat,
+đúng không?
+
+249
+00:12:07,518 --> 00:12:09,562
+Không, tôi triệt sản nó
+và nó bình tĩnh lại.
+
+250
+00:12:09,645 --> 00:12:11,439
+Chính xác...tương tự vậy.
+
+251
+00:12:11,939 --> 00:12:14,900
+Randy không cần bị sa thải.
+Anh ấy cần được chỉnh đốn.
+
+252
+00:12:14,984 --> 00:12:18,237
+Marshall, ta làm
+vài việc khá xấu xa ở đây, nhưng tôi...
+
+253
+00:12:18,320 --> 00:12:20,114
+Không sếp, tôi nói là
+thay vì loại bỏ ai đó
+
+254
+00:12:20,197 --> 00:12:23,451
+khi họ mắc lỗi, thì ta nên giúp đỡ họ.
+
+255
+00:12:24,452 --> 00:12:25,995
+Ta nên nuôi dưỡng họ.
+
+256
+00:12:30,958 --> 00:12:34,670
+Tôi thay túi chườm đá giữa hai chân nó
+mỗi giờ trong ba ngày liền.
+
+257
+00:12:36,589 --> 00:12:40,718
+Eriksen, nếu anh muốn rút lại
+lệnh sa thải Randy, tôi ủng hộ anh,
+
+258
+00:12:40,801 --> 00:12:42,761
+vì để tới đây và nói những điều đó,
+
+259
+00:12:42,845 --> 00:12:45,055
+anh có một số thứ mà Tugboat không có.
+
+260
+00:12:49,560 --> 00:12:53,105
+Các em, Prof Rock
+là một tuyển tập hay, được chứ?
+
+261
+00:12:53,189 --> 00:12:55,483
+Một phần lịch sử New York sắp bị phá hủy
+
+262
+00:12:55,566 --> 00:12:58,194
+mà thầy chỉ nói là "Nực cười thật" sao?
+
+263
+00:12:58,277 --> 00:12:59,737
+Nực...cười...
+
+264
+00:12:59,820 --> 00:13:03,532
+Có lẽ tôi đã nhắc đến cuộc nói chuyện
+của ta trong một ván tâng bóng vải.
+
+265
+00:13:03,616 --> 00:13:06,785
+Ngày duy nhất thầy lỡ trò tâng bóng,
+các em đã thay cô ta vào?
+
+266
+00:13:07,036 --> 00:13:08,287
+Sao thầy lại bỏ lỡ?
+
+267
+00:13:08,454 --> 00:13:10,998
+Quá bận rộn phá hủy Tượng Nữ Thần Tự Do à?
+
+268
+00:13:11,081 --> 00:13:15,753
+Không, thầy bận mang trả
+bộ trang phục xúc xích mà các em thích.
+
+269
+00:13:17,713 --> 00:13:19,465
+Tất cả đều quay lưng lại với tôi,
+
+270
+00:13:19,715 --> 00:13:21,675
+nên tôi nghĩ mặc kệ đi.
+
+271
+00:13:35,147 --> 00:13:36,565
+Và nó có hiệu quả không?
+
+272
+00:13:36,649 --> 00:13:38,859
+Cực kỳ hiệu quả.
+Chúng tôi lại làm bạn rồi.
+
+273
+00:13:38,943 --> 00:13:40,653
+Tan học, bọn tôi còn chơi vài ván bóng vải
+
+274
+00:13:40,736 --> 00:13:42,613
+theo giai điệu ồn ào
+của đĩa nhạc Prof Rock.
+
+275
+00:13:42,696 --> 00:13:44,990
+Và không, chưa đứa nào từng nghe
+mấy bài hát phụ của Pixies.
+
+276
+00:13:45,074 --> 00:13:47,076
+Thực ra, không một ai
+từng nghe nói đến Pixies,
+
+277
+00:13:47,159 --> 00:13:48,619
+hay bài hát phụ cả.
+
+278
+00:13:48,702 --> 00:13:49,662
+Chào mọi người.
+
+279
+00:13:50,913 --> 00:13:52,248
+Tôi biết nụ cười đó.
+
+280
+00:13:52,331 --> 00:13:54,208
+Lily, chuyện này thật khó nói.
+
+281
+00:13:54,333 --> 00:13:56,544
+Marshall đã chết. Randy đã giết cậu ấy.
+
+282
+00:13:56,669 --> 00:13:59,588
+Không. Tôi biết vì sao Randy cười.
+
+283
+00:13:59,964 --> 00:14:02,216
+Anh đang cười vì Robin.
+
+284
+00:14:02,299 --> 00:14:05,177
+Robin? Như cách tôi nghĩ về cô ấy
+khi đang tắm á?
+
+285
+00:14:05,302 --> 00:14:06,720
+Tôi đang cố ăn đấy, anh bạn.
+
+286
+00:14:07,179 --> 00:14:10,015
+Không. Vì anh đã ngủ với cô ấy
+vào đêm Halloween.
+
+287
+00:14:10,558 --> 00:14:11,809
+Gì cơ? Không.
+
+288
+00:14:11,892 --> 00:14:15,145
+Hôm đó tôi về nhà, tắm rửa rồi đi ngủ.
+
+289
+00:14:15,229 --> 00:14:16,355
+Anh không ngủ với cô ấy?
+
+290
+00:14:16,438 --> 00:14:17,439
+Không.
+
+291
+00:14:17,648 --> 00:14:20,609
+Kể cả khi tắm,
+cùng lắm là chúng tôi ôm nhau thôi.
+
+292
+00:14:21,402 --> 00:14:23,320
+Vậy sao anh lại cười?
+
+293
+00:14:23,445 --> 00:14:24,655
+Để tôi nói tại sao.
+
+294
+00:14:25,406 --> 00:14:27,032
+Thế này không ổn.
+
+295
+00:14:27,908 --> 00:14:29,952
+Mình bị sa thải rồi. Tuyệt thật.
+
+296
+00:14:30,160 --> 00:14:33,330
+Lại là chuyện quầy bán nến
+ở trung tâm thương mại đây.
+
+297
+00:14:34,081 --> 00:14:35,124
+Đợi đã.
+
+298
+00:14:35,457 --> 00:14:37,084
+Mình có thể nhận trợ cấp mất việc.
+
+299
+00:14:37,418 --> 00:14:38,919
+Nếu mình không xé vụn nó,
+
+300
+00:14:39,003 --> 00:14:41,672
+mình có thể dùng số tiền đó
+để mở một nhà máy bia.
+
+301
+00:14:42,006 --> 00:14:44,258
+Hãy tưởng tượng một chai bia
+có tên mình trên đó.
+
+302
+00:14:44,675 --> 00:14:48,304
+Randy Wharmpess,
+đây là ngày tuyệt nhất đời mày.
+
+303
+00:14:50,431 --> 00:14:53,517
+Nhờ khoản trợ cấp mất việc đó,
+giờ này năm sau,
+
+304
+00:14:53,601 --> 00:14:56,312
+mọi người sẽ được thưởng thức
+một ly bia Wharmpiss sủi bọt.
+
+305
+00:14:56,395 --> 00:14:58,230
+Randy, tin tốt đây!
+
+306
+00:14:58,314 --> 00:14:59,523
+Anh không bị sa thải!
+
+307
+00:15:02,902 --> 00:15:04,987
+Không!
+
+308
+00:15:07,823 --> 00:15:09,533
+Chào buổi sáng cả lớp...
+
+309
+00:15:13,746 --> 00:15:14,622
+Lớp mình đâu rồi?
+
+310
+00:15:15,205 --> 00:15:16,540
+CỨU LẤY TÒA NHÀ ARCADIAN
+
+311
+00:15:17,708 --> 00:15:18,876
+Chào giáo sư.
+
+312
+00:15:20,085 --> 00:15:21,128
+Đau chưa.
+
+313
+00:15:26,425 --> 00:15:28,344
+Tôi đã lấy lại công việc cho anh, Randy.
+
+314
+00:15:28,427 --> 00:15:29,720
+Tôi tưởng anh sẽ mừng chứ.
+
+315
+00:15:29,803 --> 00:15:31,221
+Nhưng tôi không thuộc về nơi này.
+
+316
+00:15:31,305 --> 00:15:34,058
+Tôi sinh ra là để ủ bia!
+Một chuyên gia ủ bia!
+
+317
+00:15:34,141 --> 00:15:36,185
+Vậy nghỉ việc đi. Không ai cản đâu.
+
+318
+00:15:36,268 --> 00:15:38,479
+Tôi không thể. Tôi cần trợ cấp mất việc.
+
+319
+00:15:38,562 --> 00:15:40,814
+Xin lỗi Randy, đó gọi là lừa đảo.
+
+320
+00:15:40,898 --> 00:15:41,941
+Đó không phải lừa đảo.
+
+321
+00:15:42,024 --> 00:15:44,777
+Tôi chỉ nhờ anh giúp tôi lấy tiền
+để không phải làm việc ở đây
+
+322
+00:15:44,860 --> 00:15:46,278
+và giữ bí mật chuyện đó.
+
+323
+00:15:46,570 --> 00:15:48,989
+Dù tôi muốn sa thải anh,
+sau khi nói chuyện với Arthur...
+
+324
+00:15:49,073 --> 00:15:51,241
+Ôi, thôi nào, Arthur không nhớ được đâu.
+
+325
+00:15:51,325 --> 00:15:53,994
+Marshall, cuộc nói chuyện
+hôm qua thật đáng nhớ.
+
+326
+00:15:54,578 --> 00:15:59,959
+Randy, thay mặt mọi người ở GNB,
+cả trong và ngoài nhà tù, tôi xin lỗi.
+
+327
+00:16:00,042 --> 00:16:02,628
+Và tôi đảm bảo
+anh sẽ không bao giờ bị sa thải nữa.
+
+328
+00:16:02,711 --> 00:16:04,463
+Anh sẽ làm việc ở đây tới khi chết chứ?
+
+329
+00:16:06,715 --> 00:16:07,716
+Cà vạt màu xanh lá?
+
+330
+00:16:09,385 --> 00:16:10,511
+Lựa chọn tốt đấy.
+
+331
+00:16:10,594 --> 00:16:12,179
+Cảm ơn. Nó làm nổi bật đôi mắt tôi.
+
+332
+00:16:12,262 --> 00:16:14,056
+Phải rồi, tôi sẽ móc mắt anh ra.
+
+333
+00:16:15,641 --> 00:16:17,309
+Nghe này, Randy, tôi rất tiếc,
+
+334
+00:16:17,393 --> 00:16:20,437
+tôi đã phá vỡ nguyên tắc đạo đức
+một lần rồi và tôi thấy mình độc ác.
+
+335
+00:16:20,813 --> 00:16:22,481
+Tôi không để GNB thay đổi tôi đâu.
+
+336
+00:16:22,564 --> 00:16:26,360
+Tôi sẽ không bao giờ sa thải ai nữa.
+
+337
+00:16:26,735 --> 00:16:28,070
+Ồ, để rồi xem.
+
+338
+00:16:32,908 --> 00:16:35,411
+Mà này, đúng lúc tôi ghi hình.
+Cười lên nào.
+
+339
+00:16:35,494 --> 00:16:38,956
+"Chúng tôi quan tâm đến việc
+biến ước mơ thành sự thật" ba, hai...
+
+340
+00:16:39,039 --> 00:16:40,249
+Không!
+
+341
+00:16:40,833 --> 00:16:42,001
+Anh đang làm gì vậy?
+
+342
+00:16:42,084 --> 00:16:44,253
+Ồ, anh không vui với biểu hiện của tôi à?
+
+343
+00:16:44,336 --> 00:16:46,797
+Chắc tôi bị đuổi việc rồi,
+tôi nên nộp lại thẻ nhân viên.
+
+344
+00:16:47,589 --> 00:16:51,677
+Không, thực ra, dọn dẹp
+đống lộn xộn này khỏi bàn tôi cũng tốt.
+
+345
+00:16:51,760 --> 00:16:52,886
+Cảm ơn nhé, Randy.
+
+346
+00:16:57,391 --> 00:16:58,434
+Và còn nữa.
+
+347
+00:17:02,146 --> 00:17:04,106
+Chưa biết sẽ dùng làm gì,
+nhưng chuyện này hay quá.
+
+348
+00:17:04,189 --> 00:17:05,399
+Giờ tôi bị sa thải chưa?
+
+349
+00:17:06,942 --> 00:17:09,820
+Tôi đã định dọn dẹp tủ tài liệu lâu rồi.
+
+350
+00:17:10,571 --> 00:17:11,739
+Tôi không có ở đây đâu.
+
+351
+00:17:11,822 --> 00:17:13,157
+Randy, cốc cà phê.
+
+352
+00:17:15,325 --> 00:17:16,368
+Được rồi.
+
+353
+00:17:17,119 --> 00:17:19,955
+Được rồi. Cảm ơn, Randy.
+
+354
+00:17:20,039 --> 00:17:22,249
+Tôi đang định giảm lượng caffeine.
+
+355
+00:17:22,833 --> 00:17:25,919
+Đây, thử đi, làm cho thật vào.
+Nhớ là, cậu ta đã phá hủy đời anh.
+
+356
+00:17:32,926 --> 00:17:34,720
+Đó là sự động viên mà tôi cần.
+
+357
+00:17:35,596 --> 00:17:37,765
+Nói tới động viên,
+ta thử lại cái đầu tiên được không?
+
+358
+00:17:42,061 --> 00:17:43,020
+Xin chào.
+
+359
+00:17:43,103 --> 00:17:44,897
+Nó không hiệu quả. Chúng ghét tôi.
+
+360
+00:17:44,980 --> 00:17:46,482
+Làm thế nào để chúng lại yêu quý tôi?
+
+361
+00:17:46,565 --> 00:17:48,817
+Không làm gì cả.
+Ted, cậu là thầy giáo của chúng.
+
+362
+00:17:48,901 --> 00:17:50,944
+Lũ duy nhất thích giáo viên của mình...
+
+363
+00:17:51,028 --> 00:17:52,905
+- Tôi thích giáo viên của tôi.
+- ...là bọn ngốc.
+
+364
+00:17:53,864 --> 00:17:55,282
+Ngoại trừ con đó, Miles.
+
+365
+00:17:57,534 --> 00:18:00,537
+Ted, cậu chỉ cần học cách
+đón nhận sự căm ghét của chúng.
+
+366
+00:18:00,621 --> 00:18:03,499
+Bởi vì đằng sau sự căm ghét là nỗi sợ hãi.
+
+367
+00:18:03,582 --> 00:18:07,669
+Và cậu có thể sử dụng nỗi sợ đó,
+như tôi đã làm với Johnny Marley.
+
+368
+00:18:07,753 --> 00:18:09,129
+Câu chuyện đó vẫn chưa hết à?
+
+369
+00:18:09,588 --> 00:18:10,547
+Còn một chút.
+
+370
+00:18:29,066 --> 00:18:31,652
+Lily, cậu là đồ tâm thần.
+
+371
+00:18:31,735 --> 00:18:32,820
+Một chút.
+
+372
+00:18:34,363 --> 00:18:35,864
+Gấu trúc!
+
+373
+00:18:37,991 --> 00:18:41,578
+Bố nghĩ về lời khuyên của cô Lily.
+Và nhận ra nỗi sợ cũng đáng để thử.
+
+374
+00:18:44,331 --> 00:18:47,459
+Chà, giáo sư Mosby,
+anh còn điều gì để nói không?
+
+375
+00:18:48,252 --> 00:18:51,296
+Ngày mai ai không đi học sẽ bị điểm F.
+
+376
+00:18:54,091 --> 00:18:55,259
+Cậu đã nói thế?
+
+377
+00:18:55,968 --> 00:18:57,636
+Ừ, chính xác thì, chúng chỉ bị hoãn thi,
+
+378
+00:18:57,719 --> 00:19:01,056
+nhưng tôi nghĩ từ "F" nghe ấn tượng
+và đáng sợ hơn. Đúng không?
+
+379
+00:19:01,181 --> 00:19:02,182
+- Chào hai người.
+- Chào.
+
+380
+00:19:02,266 --> 00:19:05,185
+- Robin, cậu đã ngủ với ai?
+- Tôi nói rồi mà. Randy.
+
+381
+00:19:05,477 --> 00:19:07,354
+Anh ấy là một cỗ máy.
+
+382
+00:19:07,813 --> 00:19:09,481
+Phân ở đâu, Robin?
+
+383
+00:19:11,191 --> 00:19:13,402
+Được rồi. Tôi không ngủ với ai cả.
+
+384
+00:19:13,610 --> 00:19:16,071
+Vấn đề là,
+sau khi Becky quay quảng cáo đó,
+
+385
+00:19:16,155 --> 00:19:18,157
+mọi người ở chỗ làm đều yêu quý cô ta.
+
+386
+00:19:18,740 --> 00:19:20,993
+Vậy nên, sau lễ Halloween,
+tôi đã đóng quảng cáo.
+
+387
+00:19:21,076 --> 00:19:22,870
+Gì...Sao em không kể với bọn anh?
+
+388
+00:19:24,288 --> 00:19:26,790
+Vấn đề về bàng quang. Thật xấu hổ,
+
+389
+00:19:26,874 --> 00:19:29,918
+thật khó chịu
+và có thể ảnh hưởng tới bất kỳ ai.
+
+390
+00:19:30,002 --> 00:19:31,962
+Tôi sẽ đi vệ sinh bây giờ.
+
+391
+00:19:32,629 --> 00:19:35,924
+Tã giấy người lớn sạch sẽ
+và kín đáo dành cho mọi người.
+
+392
+00:19:36,133 --> 00:19:37,342
+Nói...
+
+393
+00:19:38,427 --> 00:19:40,053
+"A..." đi.
+
+394
+00:19:45,726 --> 00:19:48,604
+Chà! Anh rất nóng lòng xem nó.
+
+395
+00:19:48,687 --> 00:19:51,398
+Ừ, hy vọng anh không được xem.
+Họ nói có thể sẽ không dùng nó.
+
+396
+00:19:51,481 --> 00:19:53,192
+Nó đã được chiếu suốt bảy năm.
+
+397
+00:19:55,652 --> 00:19:57,487
+Được rồi, anh thắng.
+
+398
+00:19:58,155 --> 00:20:00,365
+Có lẽ bày bừa
+văn phòng anh là một sai lầm.
+
+399
+00:20:00,908 --> 00:20:05,662
+Chỉ là, tôi vẫn còn nhớ,
+ủ bia là ước mơ của tôi.
+
+400
+00:20:07,331 --> 00:20:08,373
+Wharmpiss?
+
+401
+00:20:12,044 --> 00:20:15,422
+Tôi biết nghe thật ngu ngốc với một người
+đã đạt được giấc mơ của mình...
+
+402
+00:20:15,756 --> 00:20:17,716
+luật sư lớn cho một tập đoàn khổng lồ.
+
+403
+00:20:17,799 --> 00:20:21,053
+- Anh nghĩ làm ở đây là ước mơ của tôi?
+- Dĩ nhiên.
+
+404
+00:20:21,887 --> 00:20:24,556
+Dù sao thì, tôi sẽ dọn đống này.
+
+405
+00:20:24,765 --> 00:20:26,808
+Nhờ người lấy xác con sóc khỏi bàn anh.
+
+406
+00:20:30,437 --> 00:20:31,521
+Randy.
+
+407
+00:20:33,190 --> 00:20:34,608
+Ngon thật đấy.
+
+408
+00:20:36,151 --> 00:20:37,194
+Anh bị đuổi việc.
+
+409
+00:20:40,197 --> 00:20:42,157
+Các con, sáng hôm sau...
+
+410
+00:20:42,699 --> 00:20:45,661
+lớp bố có lượng sinh viên đi học
+đầy đủ nhất từ trước tới giờ.
+
+411
+00:20:47,246 --> 00:20:48,538
+Và không lâu sau đó,
+
+412
+00:20:48,622 --> 00:20:51,291
+Randy sử dụng khoản tiền trợ cấp mất việc
+để mở một nhà máy bia nhỏ.
+
+413
+00:20:51,833 --> 00:20:54,753
+Giờ các con có thể uống
+bia Wharmpiss ở các quán rượu tại Mỹ.
+
+414
+00:20:55,337 --> 00:20:56,505
+Và tất cả là nhờ...
+
+415
+00:20:57,381 --> 00:20:59,716
+Tôi quan tâm đến việc
+biến ước mơ thành sự thật.
+
+416
+00:21:01,301 --> 00:21:02,552
+Cậu có thứ mình cần rồi chứ?
+
+417
+00:21:02,636 --> 00:21:04,179
+Rồi. Đó là cảnh quay cuối.
+
+418
+00:21:08,600 --> 00:21:10,602
+Chuyển ngữ phụ đề bởi Phan Thiên Hương
+
