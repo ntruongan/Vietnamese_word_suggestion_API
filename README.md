@@ -16,7 +16,7 @@ The brain of API is Deep Learning NLP model which built on keras.
 Simple Sequential Keras model. Consist of 1 embedding layers, 2 LSTM layers followed by fully connected network (2 dense layers).
 
 ## Dataset ##
-Model is learn by How I met your mother - vietnamese subtitle which preprocessed in how-i-met-your-mother-second-season_vietnamese directory(<a href="https://www.kaggle.com/annguyntrng/how-i-met-your-mother-vietnamese-sub">more detail about dataset</a>)
+Dataset is How I met your mother - vietnamese subtitle which preprocessed in how-i-met-your-mother-second-season_vietnamese directory(<a href="https://www.kaggle.com/annguyntrng/how-i-met-your-mother-vietnamese-sub">more detail about dataset</a>)
 
 # How to use API #
 <ol>
